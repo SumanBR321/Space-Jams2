@@ -1,4 +1,4 @@
-export default class Player {
+export default class player {
   rightPressed = false;
   leftPressed = false;
   shootPressed = false;
